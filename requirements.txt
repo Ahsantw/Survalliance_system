@@ -1,0 +1,9 @@
+numpy
+opencv-python
+requests
+streamlit
+streamlit-extras
+tabulate
+natsort
+tqdm
+ultralytics
